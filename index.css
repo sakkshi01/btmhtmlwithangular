@@ -1,0 +1,34 @@
+
+#header{
+background:red;
+width: 20%;
+}
+#slider{
+    background:green;
+}
+#service{
+    background:yellow;
+}
+#footer{
+    background:blue;
+}
+.test{
+    background:black;
+}
+div{
+    background:greenyellow;
+}
+div{
+    background: lightcoral;
+}
+.span1{
+    background: navy;
+}
+
+.span2{
+    background:violet;
+}
+
+.span3{
+    background:darkgoldenrod;
+}
